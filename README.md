@@ -8,7 +8,3 @@ To run this App
 1. Clone the repo
 2. Run npm install
 3. Run npm run android
-
-4. Run npm run ios
-
-5. Run npm run web
